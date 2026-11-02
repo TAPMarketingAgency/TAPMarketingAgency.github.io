@@ -1,0 +1,9 @@
+.env
+.env.*
+*.key
+*.pem
+~$*
+*.tmp
+desktop.ini
+Thumbs.db
+.DS_Store
